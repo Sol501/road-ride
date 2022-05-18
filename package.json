@@ -1,0 +1,23 @@
+{
+  "name": "road-ride",
+  "version": "1.0.0",
+  "description": "This is the backend of the Road Ride Cycling Group application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sol501/road-ride.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sol501/road-ride/issues"
+  },
+  "homepage": "https://github.com/Sol501/road-ride#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
